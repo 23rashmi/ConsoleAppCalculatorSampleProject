@@ -1,0 +1,14 @@
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp1_23febCalculatorApp\ConsoleApp1_23febCalculatorApp\bin\Debug\net6.0\ConsoleApp1_23febCalculatorApp.exe
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp1_23febCalculatorApp\ConsoleApp1_23febCalculatorApp\bin\Debug\net6.0\ConsoleApp1_23febCalculatorApp.deps.json
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp1_23febCalculatorApp\ConsoleApp1_23febCalculatorApp\bin\Debug\net6.0\ConsoleApp1_23febCalculatorApp.runtimeconfig.json
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp1_23febCalculatorApp\ConsoleApp1_23febCalculatorApp\bin\Debug\net6.0\ConsoleApp1_23febCalculatorApp.dll
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp1_23febCalculatorApp\ConsoleApp1_23febCalculatorApp\bin\Debug\net6.0\ConsoleApp1_23febCalculatorApp.pdb
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp1_23febCalculatorApp\ConsoleApp1_23febCalculatorApp\obj\Debug\net6.0\ConsoleApp1_23febCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp1_23febCalculatorApp\ConsoleApp1_23febCalculatorApp\obj\Debug\net6.0\ConsoleApp1_23febCalculatorApp.AssemblyInfoInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp1_23febCalculatorApp\ConsoleApp1_23febCalculatorApp\obj\Debug\net6.0\ConsoleApp1_23febCalculatorApp.AssemblyInfo.cs
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp1_23febCalculatorApp\ConsoleApp1_23febCalculatorApp\obj\Debug\net6.0\ConsoleApp1_23febCalculatorApp.csproj.CoreCompileInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp1_23febCalculatorApp\ConsoleApp1_23febCalculatorApp\obj\Debug\net6.0\ConsoleApp1_23febCalculatorApp.dll
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp1_23febCalculatorApp\ConsoleApp1_23febCalculatorApp\obj\Debug\net6.0\refint\ConsoleApp1_23febCalculatorApp.dll
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp1_23febCalculatorApp\ConsoleApp1_23febCalculatorApp\obj\Debug\net6.0\ConsoleApp1_23febCalculatorApp.pdb
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp1_23febCalculatorApp\ConsoleApp1_23febCalculatorApp\obj\Debug\net6.0\ConsoleApp1_23febCalculatorApp.genruntimeconfig.cache
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp1_23febCalculatorApp\ConsoleApp1_23febCalculatorApp\obj\Debug\net6.0\ref\ConsoleApp1_23febCalculatorApp.dll
