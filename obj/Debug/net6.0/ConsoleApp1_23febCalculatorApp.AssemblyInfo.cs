@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp1_23febCalculatorApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0fe44cbd82cd32e83d1ff847d6203a0c18d1851")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp1_23febCalculatorApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp1_23febCalculatorApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

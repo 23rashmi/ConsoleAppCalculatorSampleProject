@@ -13,7 +13,7 @@ class Calculator
         Console.WriteLine("4. Divide");
 
         Console.Write("Select operation (1/2/3/4): ");
-        char choice = Console.ReadKey().KeyChar;
+        char choice = (char)Console.Read();
         Console.WriteLine();
 
         Console.Write("Enter first number: ");

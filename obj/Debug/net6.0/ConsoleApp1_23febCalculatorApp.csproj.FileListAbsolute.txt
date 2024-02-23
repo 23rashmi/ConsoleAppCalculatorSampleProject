@@ -12,3 +12,4 @@ D:\MPHASIS PROJECTS\Phase-4\ConsoleApp1_23febCalculatorApp\ConsoleApp1_23febCalc
 D:\MPHASIS PROJECTS\Phase-4\ConsoleApp1_23febCalculatorApp\ConsoleApp1_23febCalculatorApp\obj\Debug\net6.0\ConsoleApp1_23febCalculatorApp.pdb
 D:\MPHASIS PROJECTS\Phase-4\ConsoleApp1_23febCalculatorApp\ConsoleApp1_23febCalculatorApp\obj\Debug\net6.0\ConsoleApp1_23febCalculatorApp.genruntimeconfig.cache
 D:\MPHASIS PROJECTS\Phase-4\ConsoleApp1_23febCalculatorApp\ConsoleApp1_23febCalculatorApp\obj\Debug\net6.0\ref\ConsoleApp1_23febCalculatorApp.dll
+D:\MPHASIS PROJECTS\Phase-4\ConsoleApp1_23febCalculatorApp\ConsoleApp1_23febCalculatorApp\obj\Debug\net6.0\ConsoleApp1_23febCalculatorApp.sourcelink.json
